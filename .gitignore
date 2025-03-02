@@ -22,3 +22,19 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# IntelliJ
+*out/
+*.idea/
+*.iws
+*.iml
+*.ipr
+
+# MacOS
+*.DS_Store*
+*ehthumbs.db
+*Icon?
+*Thumbs.db
+
+# Project specific
+result.csv
